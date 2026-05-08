@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm corporate girlie with 4 years of work ex<br>I'm currently learning Gen AI technology<br>I'm looking for product roles in Gen AI and finance domain<br>Ask me about machine learning and system design <br>I'm using c++, java and python in my work projects
+I'm corporate girlie with 6 years of work ex<br>I'm currently learning Gen AI technology<br>I'm looking for product roles in Gen AI and finance domain<br>Ask me about machine learning and system design <br>I'm using c++, java and python in my work projects
 
 
 ## 🌐 Socials:
